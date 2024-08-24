@@ -1,16 +1,48 @@
-# controleedegastos
+# 💰 Controle de Gastos
 
-A new Flutter project.
+Controle de Gastos é um aplicativo de gerenciamento financeiro desenvolvido em Flutter, que ajuda os usuários a monitorar suas despesas de maneira eficiente. O aplicativo oferece uma interface moderna e intuitiva, com gráficos para visualização de gastos.
 
-## Getting Started
+## 📱 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **✨ Tela Inicial com Logo:** Apresenta uma tela inicial com um logo moderno e uma transição suave para a tela principal.
+- **📊 Tela Principal:** Visualização e organização das atividades de gasto com descrições detalhadas e datas. Gráfico de barras para análise visual dos gastos.
+- **➕ Adição de Gastos:** Adição de novos gastos com descrição, valor, e data automática. Visualização das despesas em uma lista organizada.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Instalação
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para executar o aplicativo localmente, siga estas instruções:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone o repositório:**
+
+    ```bash
+    git clone https://github.com/seuusuario/controle-de-gastos.git
+    ```
+
+2. **Navegue até o diretório do projeto:**
+
+    ```bash
+    cd controle-de-gastos
+    ```
+
+3. **Instale as dependências:**
+
+    ```bash
+    flutter pub get
+    ```
+
+4. **Execute o aplicativo:**
+
+    ```bash
+    flutter run
+    ```
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Flutter:** Framework para desenvolvimento de aplicativos nativos.
+- **Provider:** Gerenciamento de estado reativo.
+- **charts_flutter:** Biblioteca para gráficos em Flutter.
+- **intl:** Biblioteca para formatação e manipulação de datas.
+
+---
+
+Desenvolvido com 💚 por Dalvana Lopes Ribeiro ;).
